@@ -5,7 +5,9 @@
 layout: page
 ---
 
-# KIM JESTEŚMY?
+# HACKERZY
+
+## O nas 
 Nasza społeczność to przestrzeń dla tych, którzy są gotowi na ciągły rozwój i nieustanne doskonalenie swoich umiejętności.
 
 Jesteśmy elitarną grupą nowoczesnych wojowników – Hackerów Produktywności.
@@ -24,7 +26,7 @@ Jesteśmy
 
 !INFOBOX 
 Nie musisz być programistą, aby zostać Hackerem.
-Hackerzy to produktywność, mindset i podjeście do życia.
+Hackerzy to produktywność, mindset i podejście do życia.
 
 Wśród Hackerów Produktywności znajdziesz codzienną dawkę motywacji, praktyczne porady i wsparcie, które pozwolą Ci przetrwać nawet najtrudniejsze dni. Wspólnie uczymy się, jak skutecznie zarządzać czasem, unikać rozpraszaczy i utrzymywać wysoką produktywność. To miejsce, gdzie wymieniasz się pomysłami, zdobywasz nowe perspektywy i znajdujesz przyjaciół, którzy podzielają Twoją pasję do rozwoju.
 
