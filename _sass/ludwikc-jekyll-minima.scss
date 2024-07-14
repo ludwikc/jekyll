@@ -5,16 +5,37 @@
 
 /* =========================================== */
 
-h1 {font-family: "Orbitron", sans-serif;
-letter-spacing: -0.05em;
-font-size: 2em;
-font-weight: 900;
-text-transform: uppercase;
-font-style: oblique;
-margin: 0;
-color: #fff;
-text-shadow: 0 0 20px rgba(25, 25, 255, 0.8) !important;
-text-shadow: 0 0 20px rgba(25, 25, 255, 0.8) !important;}
+h1 {}
+
+h1.post-title {
+	
+//	background-color: #9ABEFD;
+//	background: linear-gradient(90deg, rgba(29, 78, 216, 0.8), rgba(147, 51, 234, 0.8), rgba(217, 70, 239, 0.8));
+//	background: linear-gradient(90deg, rgba(34, 85, 170, 0.8), rgba(84, 70, 178, 0.8), rgba(134, 55, 186, 0.8));
+	background: linear-gradient(90deg, rgba(29, 78, 216, 0.8), rgba(90, 75, 170, 0.8),  rgba(150, 70, 170, 0.8));
+	//	background: linear-gradient(90deg, rgba(50, 100, 150, 0.8), rgba(100, 85, 160, 0.8), rgba(150, 70, 170, 0.8));
+//	background: linear-gradient(90deg, rgba(60, 110, 140, 0.8), rgba(110, 95, 150, 0.8), rgba(160, 80, 160, 0.8));
+//	background: linear-gradient(90deg, rgba(70, 120, 130, 0.8), rgba(120, 105, 140, 0.8), rgba(170, 90, 150, 0.8));
+	padding: 20px;
+	display: inline-block;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+	border-radius: 0px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	width: 100%;
+	font-family: "Orbitron", sans-serif;
+	letter-spacing: -0.05em;
+	font-size: 3em;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-style: oblique;
+	margin: 0;
+	color: #fff;
+	text-shadow: 0 0 20px rgba(25, 25, 255, 0.8) !important;}
+
 	
 /* Gradient 1: Hackerzy-Gradient1 */
 .hackerzy-gradient1 {
