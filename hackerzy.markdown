@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Hackerzy.pl
+permalink: /hackerzy/
 ---
 
-# Hackerzy.pl
 
 [O Nas](#onas) | [O Hackerach](#community) | [Zasoby](#resources)
 ## O nas <a name="onas"></a>

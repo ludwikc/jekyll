@@ -22,8 +22,8 @@ title: Ludwik C. Siadlak
 email: web@siadlak.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Jestem Ludwik i żyję z aktualizowania oprogramowania. Ludziom. W ich głowach.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ludwikc.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ludwikc
 github_username:  ludwikc
 
