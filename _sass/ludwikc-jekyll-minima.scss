@@ -17,13 +17,14 @@ h1.post-title {
 //	background: linear-gradient(90deg, rgba(60, 110, 140, 0.8), rgba(110, 95, 150, 0.8), rgba(160, 80, 160, 0.8));
 //	background: linear-gradient(90deg, rgba(70, 120, 130, 0.8), rgba(120, 105, 140, 0.8), rgba(170, 90, 150, 0.8));
 	padding: 20px;
-	display: inline-block;
+	display: block;
 	font-family: 'Archivo', sans-serif;
 	color: white;
 	text-align: center;
 	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 	border-radius: 0px;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	box-sizing: border-box;
 	text-align: center;
 	width: 100%;
 	font-family: "Orbitron", sans-serif;
