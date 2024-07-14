@@ -26,9 +26,7 @@ Jesteśmy
 - pracujemy na etatach
 - mamy własne działalności
 
-!INFOBOX 
-Nie musisz być programistą, aby zostać Hackerem.
-Hackerzy to produktywność, mindset i podejście do życia.
+<p class="infobox ierror" style="text-align: center;">Nie musisz być programistą, aby zostać <span class="hackerzy-gradient1" style="font-weight: 700;">Hackerem</span>.<br><span class="hackerzy-gradient1" style="font-weight: 700;">Hackerzy</span> to produktywność, mindset i&nbsp;podjeście do życia.</p>
 
 Wśród Hackerów Produktywności znajdziesz codzienną dawkę motywacji, praktyczne porady i wsparcie, które pozwolą Ci przetrwać nawet najtrudniejsze dni. Wspólnie uczymy się, jak skutecznie zarządzać czasem, unikać rozpraszaczy i utrzymywać wysoką produktywność. To miejsce, gdzie wymieniasz się pomysłami, zdobywasz nowe perspektywy i znajdujesz przyjaciół, którzy podzielają Twoją pasję do rozwoju.
 
