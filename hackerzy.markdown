@@ -56,13 +56,13 @@ Przygotuj się na transformację swojego życia zawodowego i osobistego, i doł�
 # ZASOBY <a name="resources"></a>
 
 ## Silent Cowork
-![Silent Cowork](/assets/media/hackerzy_.png)
+![Silent Cowork](assets/hackerzy_silentcowork.jpg)
 Znajdź swoje miejsce w naszym wirtualnym biurze – Silent Cowork. To przestrzeń, gdzie spotykają się ludzie z całego świata, by wspólnie pracować nad swoimi celami. Jesteśmy grupą zdeterminowanych profesjonalistów, którzy wiedzą, jak ważne jest skupienie i efektywność. Jedna zasada obowiązuje tu bezwzględnie: kiedy jesteś na coworku, pracujesz. Chcesz przescrollować Instagram? Wyłączasz się. To miejsce skupionej pracy, gdzie na twarzach innych zobaczysz determinację do osiągnięcia własnych celów.
 
 Rezultat: Znajdziesz tu motywację i skupienie, które pomagają Ci efektywnie pracować nad swoimi celami.
 
 ## Daily Coaching o 12:34
-![Daily Coaching](/assets/media/hackerzy_.png)
+![Daily Coaching](assets/hackerzy_1234.webp)
 Codziennie o 12:34 spotykamy się na krótkie, energetyczne sprinty. Masz wyzwanie, problem, a może ultra ciekawą rozkminkę, którą chcesz się podzielić? Jesteśmy tu dla Ciebie. Te spotkania odbywają się codziennie, już ponad 200 razy poczuliśmy niesamowitą energię wspólnej pracy. Kolejne spotkanie? Już jutro!
 
 Rezultat: Dostajesz natychmiastowe wsparcie, dzięki któremu od razu pozbywasz się blokujących Cię tematów.
@@ -70,37 +70,37 @@ Rezultat: Dostajesz natychmiastowe wsparcie, dzięki któremu od razu pozbywasz 
 To intensywny czas na szybkie rozwiązanie problemów i dzielenie się pomysłami w dynamicznej atmosferze.
 
 ## Indywidualne Odpowiedzi
-![Indywidualne Odpowiedzi](/assets/media/hackerzy_.png)
+![Indywidualne Odpowiedzi](/assets/hackerzy_odpowiedzi.jpg)
 Hackerzy są na szczycie mojej listy priorytetów. Jeśli pojawia się temat, który jest ważny dla któregokolwiek Hackera, udzielam indywidualnej odpowiedzi. Często te odpowiedzi są cenne również dla innych członków naszej społeczności.
 
 Rezultat: Otrzymujesz dokładne i personalizowane wsparcie, które pomaga Ci skutecznie rozwiązywać trudności i osiągać cele, bazując na moim doświadczeniu i wiedzy.
 
 ## Sekrety Hackerów
-![Sekrety Hackerów](/assets/media/hackerzy_sekrety.jpg)
+![Sekrety Hackerów](/assets/hackerzy_sekrety.jpg)
 W społecznościHackerów Produktywności zaufanie jest fundamentem. Czasami jednak pojawiają się tematy zbyt trudne, by mówić o nich otwarcie. Dlatego stworzyliśmy SekretyHackerów – miejsce, gdzie możesz podzielić się swoimi najskrytszymi przemyśleniami i uzyskać wsparcie grupy. Gwarancja Zaufania to zasada, której tutaj nikt nie złamie.
 
 Rezultat: Otrzymujesz wsparcie i zrozumienie od społeczności, która szanuje Twoją prywatność i zaufanie.
 
 ## Kluby Tematyczne
-![Kluby Tematyczne](/assets/media/hackerzy_.png)
+![Kluby Tematyczne](/assets/hackerzy_kluby.png)
 W naszej społeczności znajdziesz wiele wewnętrznych klubów, takich jak BookClub, gdzie pasjonaci literatury dzielą się swoimi odkryciami i przemyśleniami. Sekcja taneczna, gdzie mamy profesjonalnego instruktora Bachaty. Każdy znajdzie coś dla siebie, a jeśli nie – zawsze możemy stworzyć nowy klub!
 
 Rezultat: Rozwijasz swoje zainteresowania i zdobywasz nowe umiejętności dzięki współpracy z ekspertami w swojej dziedzinie.
 
 ## Wewnętrzne Warsztaty
-![Wewnętrzne Warsztaty](/assets/media/hackerzy_.png)
+![Wewnętrzne Warsztaty](/assets/hackerzy_warsztaty.png)
 Hakerzy to eksperci w swoich dziedzinach, chętnie dzielący się swoją wiedzą. Regularnie organizujemy wewnętrzne warsztaty, które prowadzą zarówno nasi członkowie, jak i zewnętrzni specjaliści. To doskonała okazja [!!! uzupełnić zk]
 
 Rezultat: Uzyskujesz konkretne narzędzia i strategie, które możesz natychmiast zastosować w praktyce.
 
 ## Wspólne Notatki
-![Wspólne Notatki](/assets/media/hackerzy_.png)
+![Wspólne Notatki](/_media/hackerzy_notatki.png)
 Dzięki hakowaniu produktywności,Hackerzy wreszcie znajdują czas na podnoszenie swoich kompetencji i realizację kursów, które kiedyś kupili, ale nigdy nie przerobili. Teraz nie tylko je przechodzą, ale także wymieniają się notatkami, aby wyciągnąć z nich maksimum wiedzy i zwrócić uwagę na rzeczy, które mogli przegapić.
 
 Rezultat: Efektywnie przyswajasz nową wiedzę i zwiększasz swoją produktywność dzięki wspólnemu uczeniu się.
 
 ## Ekskluzywne Zniżki
-![Ekskluzywne Zniżki](/assets/media/hackerzy_.png)
+![Ekskluzywne Zniżki](/assets/hackerzy_znizki.png)
 BycieHackerem Produktywności wiąże się z wieloma korzyściami, w tym z dostępem do ekskluzywnych zniżek na kursy, narzędzia i szkolenia. Regularnie organizujemy wewnętrzne warsztaty z udziałem zewnętrznych ekspertów, oferując naszym członkom wartościowe zasoby w atrakcyjnych cenach.
 
 Rezultat: Oszczędzasz pieniądze i rozwijasz się zawodowo dzięki dostępowi do wartościowych zasobów w atrakcyjnych cenach.
@@ -109,7 +109,7 @@ Rezultat: Oszczędzasz pieniądze i rozwijasz się zawodowo dzięki dostępowi d
 Nasz toolbox to uporządkowana, ekskluzywna baza wiedzy, notatek i rekomendacji, którą wspólnie tworzymy i rozwijamy. Znajdziesz tu wszystko – od tajnych makr i scenariuszy automatyzacji, po nasze własne przemyślenia i notatki z najlepszych książek i szkoleń.
 
 ## MEGA Aktywne Forum
-![Forum](/assets/media/hackerzy_forum-large.png)
+![Forum](/assets/hackerzy_forum-large.png)
 Rezultat: Korzystając z naszego toolboxa, szybko znajdziesz odpowiednie narzędzia i strategie, które pomogą Ci w osiąganiu celów.
 
 50+ Protipów
