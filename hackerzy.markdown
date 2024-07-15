@@ -593,12 +593,12 @@ permalink: /hackerzy/
 		<p><a href="#">O Kung Fu w Komunikacji 🔒</a></p>
 		</div>
 		</div>
-		
+		</section>
 		
 		
 		<!-- Add more tiles as needed -->
-		</section>          
-		
+			
+		<section>
 		<h3>MEGA Aktywne Forum</h3>
 		<div class="resource-section">
 		<p>Nasze forum tętni życiem. To miejsce, gdzie wymieniamy się pomysłami, dzielimy się sukcesami i&nbsp;wspieramy nawzajem w realizacji naszych celów. W przeciwieństwie do innych społeczności, które gasną po początkowym entuzjazmie, Hackerzy Produktywności pozostają aktywni i&nbsp;zaangażowani przez cały czas.</p>
@@ -645,7 +645,7 @@ permalink: /hackerzy/
 		<h2 style="font-size: 1.5em;line-height: 1.6em;">Tylko Ludwik... dlaczego ta strona jest taka brzydka?</h2>
 		<p>Jestem specjalistą od skuteczności. W naszej Społeczności liczą się konkrety i&nbsp;rezultaty. </p><p>Chcesz obcować ze sztuką?  Kliknij <a href="https://www.google.com/search?q=art+gallery+near+me" style="color:white !important;text-decoration: underline;">tutaj</a> lub zainstaluj <a href="https://www.getdailyart.com/" style="color:white;text-decoration: underline;">DailyArt</a>.</p>
 		</section>
-		</main>
+
 		
 		<!-- Popup structure -->
 		<div id="popup" class="popup">
@@ -662,4 +662,4 @@ permalink: /hackerzy/
 		<img src="" alt="Popup Image" class="popup-image" id="popupImage">
 		</div>
 		
-		
+</main>		
