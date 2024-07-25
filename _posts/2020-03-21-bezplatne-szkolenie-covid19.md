@@ -1,0 +1,142 @@
+---
+id: 7091
+title: 'Bezpłatne szkolenie dla prawników, psychoterapeutów, konsultantów i freelancerów'
+date: '2020-03-21T22:54:37+02:00'
+author: 'Ludwik C. Siadlak'
+layout: post
+guid: 'https://personaldevelopment.pl/?p=7091'
+permalink: /bezplatne-szkolenie-covid19/
+ampforwp_custom_content_editor:
+    - "\r\n\r\n"
+ampforwp_custom_content_editor_checkbox:
+    - null
+ampforwp-amp-on-off:
+    - hide-amp
+ampforwp-redirection-on-off:
+    - disable
+bsb_share_transient_facebook:
+    - '1605566018'
+bsb_share_count_facebook:
+    - '0'
+bsb_share_transient_linkedin:
+    - '1605566018'
+bsb_share_count_linkedin:
+    - '0'
+csco_post_embed:
+    - 'https://vimeo.com/399497105'
+csco_singular_layout:
+    - default
+csco_page_header_type:
+    - default
+csco_post_media_location:
+    - content
+csco_post_video_bg_location:
+    - 'a:2:{i:0;s:6:"slider";i:1;s:7:"archive";}'
+csco_post_video_bg_start_time:
+    - '0'
+csco_post_video_bg_end_time:
+    - '0'
+use_ampforwp_page_builder:
+    - 'yes'
+ampforwp_page_builder_enable:
+    - null
+amp-page-builder:
+    - '{"rows":[],"totalrows":"1","totalmodules":"1","settingdata":{"front_class":"","front_css":""}}'
+tcb2_ready:
+    - '1'
+tve_content_before_more:
+    - "<div class=\"thrv_wrapper thrv_contentbox_shortcode thrv-content-box\" data-css=\"tve-u-160c24cca2d\" data-ct-name=\"Tutorial: BG Image Box 2\" data-ct=\"stylebox-8991\" data-element-name=\"Styled Box\">\n<div class=\"tve-content-box-background\" data-css=\"tve-u-171038529de\"></div>\n<div class=\"tve-cb tve_empty_dropzone\" data-css=\"tve-u-171038529df\"><div class=\"tcb-clear\" data-css=\"tve-u-171038529e0\"><div class=\"thrv_wrapper thrv_contentbox_shortcode thrv-content-box\" data-css=\"tve-u-171038529e1\">\n<div class=\"tve-content-box-background\"></div>\n<div class=\"tve-cb tve_empty_dropzone\" data-css=\"tve-u-171038529e2\"><div class=\"thrv_wrapper thrv_text_element tve_empty_dropzone\" style=\"\" data-css=\"tve-u-171038529e3\"><p data-css=\"tve-u-171038529e4\" style=\"text-align: right;\">​Kliknij <strong>PLAY </strong>powyżej</p></div><div class=\"tcb-clear\" data-css=\"tve-u-1710385e73a\"><div class=\"thrv_wrapper thrv_text_element tve_empty_dropzone\" style=\"\" data-css=\"tve-u-171038529e5\"><p style=\"text-align: right;\">​lub przeczytaj transkrypcję powyższego nagrania.</p></div></div></div>\n</div></div></div>\n</div><div class=\"thrv_wrapper thrv_text_element\"><h3 dir=\"ltr\" class=\"\">Transkrypcja</h3><p dir=\"ltr\">Dzień dobry, nazywam się Ludwik Siadlak i Pani Prezes Stowarzyszenia Adwokackiego <a href=\"http://www.defensoriuris.pl/\">Defensor Iuris</a> poprosiła mnie, abym nagrał takie krótkie video, aby podzielić się swoją perspektywą tego w jakim miejscu się znajdujemy w tej chwili i dokąd zmierzamy, jako ludzie uprawiający wolne zawody.</p><p dir=\"ltr\">Dlatego, że będąc adwokatem, mecenasem, radcą, doradcą czy rzeczoznawcą uprawiamy to, co jest kwintesencją wolnego zawodu.</p><p dir=\"ltr\">Ja sam pozwalam sobie siebie wrzucić w ten worek, chociaż nie mam nic wspólnego z prawem, ale jestem konsultantem dla agencji wywiadowczych, służb wojskowych i rządów różnych krajów i robię to samo, co Wy, to samo co Państwo - tzn. sprzedaję swój czas, sprzedaję swoją wiedzę i umiejętności. Sprzedaję swoją inteligencję.</p><p dir=\"ltr\">Bo nawet psychologowie definiują inteligencję, jako miarę sprawności łączenia faktów&nbsp;</p><p dir=\"ltr\">i dochodzenia do nowych wniosków. A przecież te nowe wnioski i rezultaty to jest to, co my dostarczamy naszym klientom. Po to, żeby oni mogli osiągnąć swoje cele.</p><p dir=\"ltr\">Teraz, w momencie kiedy spotkała nas sytuacja wyjątkowa, to mamy tak naprawdę dwie ścieżki. Jesteśmy na rozstaju dróg, na rozdrożu i możemy albo zrobić to, co duża część świata zrobiła, tzn. wstrzymać oddech, poczekać, przetrwać, zamknąć się w domu i liczyć na to, że to się wkrótce skończy. Nie wiemy jak szybko, nie wiemy jak dużo czasu nam to zajmie, ale liczyć na to, że to się kiedyś skończy, bo to się skończy. Oczywiście warto myśleć pozytywnie - mieć na końcu jakieś światełko wiedząc o tym, że już w Chinach ta krzywa zachorowań wypłaszcza, więc będzie dobrze.</p><p dir=\"ltr\">Tylko to, co mnie zastanawia to czy te wszystkie firmy, korporacje, duże przedsiębiorstwa - nawet te niepracujące w najnowocześniejszych branżach jak nowe technologie, jak branże finansowe czy sztuczna inteligencja itd., nawet zwykłe, normalne organizacje, typowe organizacje również zaczęły rozumieć, że bardzo wiele rzeczy da się zrobić online.&nbsp;</p><blockquote dir=\"ltr\" class=\"\">Świat wirtualny jest rzeczywisty,<br>tylko bardziej nowoczesny.<br></blockquote><p dir=\"ltr\">To znaczy: nie musimy się spotykać w sali, żeby przeprowadzić szkolenie, nie musimy się spotykać w salce, żeby zrobić szybką prezentację, nie musimy się umawiać na spotkanie, żeby dwie osoby musiały dojechać. Nawet pracując w biurze nie musimy siedzieć przed komputerem, tam przed naszym biurkiem, tylko możemy oszczędzić półtorej godziny jazdy do pracy plus półtorej godziny powrotu z pracy. Jednocześnie możemy oszczędzić zagrożenie, jakim jest w tej chwili spotykanie się z innymi ludźmi. To wszystko można zrobić przez Internet.</p><p dir=\"ltr\"><b>Nagle się otworzyły tak strasznie dużo furtek.</b></p><p dir=\"ltr\">I teraz to, co mnie zastanawia, to czy w momencie, kiedy jako społeczeństwo adaptujemy się do tej nowej rzeczywistości, to czy ludzie, którzy już się zaadaptują - czy szefowie tych firm stwierdzą - dobra pandemia minęła, wszystko. Wirus? Z wirusem sobie poradziliśmy. Zapraszamy z powrotem do biur, zapraszamy na swoje krzesła, dlatego że wracamy do stanu w jakim byliśmy przed tą pandemią. To raczej trudne, żeby sobie to wyobrazić, prawda?&nbsp;</p><p dir=\"ltr\">Więc, jak popatrzymy na historię to historycznie zawsze zwycięzcami były te jednostki, które w sytuacji stresowej najszybciej się adaptowały. I teraz skoro my sprzedajemy:</p><ul><li dir=\"ltr\">swój czas</li><li dir=\"ltr\">swoją wiedzę, </li><li dir=\"ltr\">swoje umiejętności, które dostarczamy tak naprawdę w trakcie spotkań z naszymi klientami, <br><br><b>to jesteśmy w idealnej sytuacji!</b>&nbsp;</li></ul><p dir=\"ltr\">Dlatego, że bardzo małym kosztem, małym sumptem jesteśmy w stanie przenieść naszą praktykę, nasze funkcjonowanie właśnie w świat online. Świat nie wirtualny, tylko świat jak najbardziej rzeczywisty - tylko bardziej nowoczesny. Jesteśmy w stanie zostać liderami dlatego, że zaadaptujemy się najszybciej do tej nowej sytuacji.</p><p dir=\"ltr\"><br></p></div><div class=\"thrv_wrapper thrive_leads_shortcode\"><div class=\"thrive-shortcode-config\" style=\"display: none !important;\">__CONFIG_leads_shortcode__{\"id\":\"7108\"}__CONFIG_leads_shortcode__</div></div><div class=\"thrv_wrapper thrv_text_element\"><p dir=\"ltr\">To co chciałbym Państwu, Wam zaoferować to <b>bezpłatna pomoc</b>, wsparcie w tym trudnym czasie, dlatego że musimy sobie pomagać, aby zacząć funkcjonować w tej nowej rzeczywistości.</p><p dir=\"ltr\">I chciałbym zaoferować wsparcie. Na stronie <b>Siadlak.com</b> będzie w ciągu najbliższych kilku dni, link - gdzieś widoczny na pewno - dotyczący korona wirusa COVID-19, gdzie zaoferuję kurs - absolutnie bezpłatny - jako formę wsparcia dla ludzi uprawiających wolne zawody.</p><p dir=\"ltr\">Jak to zrobić?</p><ul><li dir=\"ltr\">​Jak zorganizować swoją praktykę online?</li><li dir=\"ltr\">​​Jak zorganizować sobie tego rodzaju studio; aby można było z wami porozmawiać i uzyskać to co co dawaliśmy do tej pory w naszych salkach, w naszych biurach, &nbsp;w naszych miejscach spotkań?</li><li dir=\"ltr\">Jak zapewnić naszym Klientom, Kontrahentom, Partnerom bezpieczeństwo spotkania - zarówno psychiczne jak technologiczne?</li></ul><p dir=\"ltr\">Tak wygląda przyszłość. Nie jesteśmy w stanie tego uniknąć, a wirus który w tej chwili zdziesiątkował niektóre miejsca na świecie, po prostu przyspieszył ten proces.</p><p dir=\"ltr\">Musimy się zaadaptować albo po prostu wstrzymać oddech i bez tlenu liczyć na to, że dotrwamy. Ale to będzie dużo trudniejsze i myślę, że raczej płonne nadzieje, abyśmy wrócili tam, gdzie byliśmy. Więc raz jeszcze życzę zdrowia, tego aby zostawać w domu, trzymać się akcji zostańmy w domu. I zapraszam na stronę siadlak.com, aby rozpocząć proces adaptacyjny, bo … nie mamy innego wyjścia. </p><p dir=\"ltr\">Dzięki. Do zobaczenia. Cześć.</p><div dir=\"ltr\" class=\"tcb-plain-text\" style=\"\" data-css=\"tve-u-171a6bbd6be\"><span style=\"\" data-css=\"tve-u-171a6bbcbf5\">Transkrypcj​ę dostarczył: <b>Piotr Stanek </b>(dziękuję!)</span></div><p style=\"\"><span style=\"font-style: normal;\" data-css=\"tve-u-171a6bbcbf9\"><i></i></span></p></div><div class=\"thrv_wrapper thrive_leads_shortcode\"><div class=\"thrive-shortcode-config\" style=\"display: none !important;\">__CONFIG_leads_shortcode__{\"id\":\"7108\"}__CONFIG_leads_shortcode__</div></div>"
+tve_content_more_found:
+    - ''
+tve_custom_css:
+    - '@media (min-width: 300px){:not(#tve) .thrv-content-box [data-css="tve-u-171038529e2"] p, :not(#tve) .thrv-content-box [data-css="tve-u-171038529e2"] li, :not(#tve) .thrv-content-box [data-css="tve-u-171038529e2"] blockquote, :not(#tve) .thrv-content-box [data-css="tve-u-171038529e2"] address { color: rgb(255, 255, 255); }:not(#tve) .thrv-content-box [data-css="tve-u-171038529df"] p, :not(#tve) .thrv-content-box [data-css="tve-u-171038529df"] li, :not(#tve) .thrv-content-box [data-css="tve-u-171038529df"] blockquote, :not(#tve) .thrv-content-box [data-css="tve-u-171038529df"] address { color: rgb(255, 255, 255); }[data-css="tve-u-171038529e0"]::after { clear: both; }[data-css="tve-u-171038529e1"] { float: right; z-index: 3; position: relative; width: 100%; max-width: 670px; margin-top: 0px !important; margin-bottom: 0px !important; }:not(#tve) [data-css="tve-u-171038529e4"] { font-size: 26px !important; }[data-css="tve-u-160c24cca2d"] { padding: 20px !important; }[data-css="tve-u-171038529de"] { border-radius: 8px; overflow: hidden; background-color: rgb(22, 22, 22) !important; background-image: url("https://cdn.personaldevelopment.pl/wp-content/uploads/tcb_content_templates/stylebox/images/owl-cropped2.jpg") !important; background-size: auto !important; background-position: 0px 0px !important; background-attachment: scroll !important; background-repeat: no-repeat !important; }[data-css="tve-u-171038529df"] h3 { margin: 0px !important; padding: 0px !important; }[data-css="tve-u-171038529df"] h2 { margin: 0px !important; padding: 0px !important; }[data-css="tve-u-171038529df"] h1 { margin: 0px !important; padding: 0px !important; }[data-css="tve-u-171038529df"] p { margin: 0px !important; padding: 0px !important; }[data-css="tve-u-171038529e5"] { float: right; z-index: 3; position: relative; background-image: none !important; padding-left: 336px !important; }[data-css="tve-u-171038529e3"] { background-image: none !important; margin: 0px 0px 10px !important; padding-left: 299px !important; }[data-css="tve-u-1710385e73a"]::after { clear: both; }[data-css="tve-u-171a6bbcbf9"] { font-style: normal !important; }:not(#tve) [data-css="tve-u-171a6bbd6be"] { font-size: 17px !important; font-style: italic !important; font-weight: var(--g-regular-weight, normal) !important; }}@media (max-width: 1023px){[data-css="tve-u-171038529e1"] { max-width: 420px; }}@media (max-width: 767px){[data-css="tve-u-171038529e1"] { max-width: 100%; margin-top: 200px !important; }}'
+tve_user_custom_css:
+    - ''
+tve_page_events:
+    - 'a:0:{}'
+tve_updated_post:
+    - "<div class=\"thrv_wrapper thrv_contentbox_shortcode thrv-content-box\" data-css=\"tve-u-160c24cca2d\" data-ct-name=\"Tutorial: BG Image Box 2\" data-ct=\"stylebox-8991\" data-element-name=\"Styled Box\">\n<div class=\"tve-content-box-background\" data-css=\"tve-u-171038529de\"></div>\n<div class=\"tve-cb tve_empty_dropzone\" data-css=\"tve-u-171038529df\"><div class=\"tcb-clear\" data-css=\"tve-u-171038529e0\"><div class=\"thrv_wrapper thrv_contentbox_shortcode thrv-content-box\" data-css=\"tve-u-171038529e1\">\n<div class=\"tve-content-box-background\"></div>\n<div class=\"tve-cb tve_empty_dropzone\" data-css=\"tve-u-171038529e2\"><div class=\"thrv_wrapper thrv_text_element tve_empty_dropzone\" style=\"\" data-css=\"tve-u-171038529e3\"><p data-css=\"tve-u-171038529e4\" style=\"text-align: right;\">​Kliknij <strong>PLAY </strong>powyżej</p></div><div class=\"tcb-clear\" data-css=\"tve-u-1710385e73a\"><div class=\"thrv_wrapper thrv_text_element tve_empty_dropzone\" style=\"\" data-css=\"tve-u-171038529e5\"><p style=\"text-align: right;\">​lub przeczytaj transkrypcję powyższego nagrania.</p></div></div></div>\n</div></div></div>\n</div><div class=\"thrv_wrapper thrv_text_element\"><h3 dir=\"ltr\" class=\"\">Transkrypcja</h3><p dir=\"ltr\">Dzień dobry, nazywam się Ludwik Siadlak i Pani Prezes Stowarzyszenia Adwokackiego <a href=\"http://www.defensoriuris.pl/\">Defensor Iuris</a> poprosiła mnie, abym nagrał takie krótkie video, aby podzielić się swoją perspektywą tego w jakim miejscu się znajdujemy w tej chwili i dokąd zmierzamy, jako ludzie uprawiający wolne zawody.</p><p dir=\"ltr\">Dlatego, że będąc adwokatem, mecenasem, radcą, doradcą czy rzeczoznawcą uprawiamy to, co jest kwintesencją wolnego zawodu.</p><p dir=\"ltr\">Ja sam pozwalam sobie siebie wrzucić w ten worek, chociaż nie mam nic wspólnego z prawem, ale jestem konsultantem dla agencji wywiadowczych, służb wojskowych i rządów różnych krajów i robię to samo, co Wy, to samo co Państwo - tzn. sprzedaję swój czas, sprzedaję swoją wiedzę i umiejętności. Sprzedaję swoją inteligencję.</p><p dir=\"ltr\">Bo nawet psychologowie definiują inteligencję, jako miarę sprawności łączenia faktów&nbsp;</p><p dir=\"ltr\">i dochodzenia do nowych wniosków. A przecież te nowe wnioski i rezultaty to jest to, co my dostarczamy naszym klientom. Po to, żeby oni mogli osiągnąć swoje cele.</p><p dir=\"ltr\">Teraz, w momencie kiedy spotkała nas sytuacja wyjątkowa, to mamy tak naprawdę dwie ścieżki. Jesteśmy na rozstaju dróg, na rozdrożu i możemy albo zrobić to, co duża część świata zrobiła, tzn. wstrzymać oddech, poczekać, przetrwać, zamknąć się w domu i liczyć na to, że to się wkrótce skończy. Nie wiemy jak szybko, nie wiemy jak dużo czasu nam to zajmie, ale liczyć na to, że to się kiedyś skończy, bo to się skończy. Oczywiście warto myśleć pozytywnie - mieć na końcu jakieś światełko wiedząc o tym, że już w Chinach ta krzywa zachorowań wypłaszcza, więc będzie dobrze.</p><p dir=\"ltr\">Tylko to, co mnie zastanawia to czy te wszystkie firmy, korporacje, duże przedsiębiorstwa - nawet te niepracujące w najnowocześniejszych branżach jak nowe technologie, jak branże finansowe czy sztuczna inteligencja itd., nawet zwykłe, normalne organizacje, typowe organizacje również zaczęły rozumieć, że bardzo wiele rzeczy da się zrobić online.&nbsp;</p><blockquote dir=\"ltr\" class=\"\">Świat wirtualny jest rzeczywisty,<br>tylko bardziej nowoczesny.<br></blockquote><p dir=\"ltr\">To znaczy: nie musimy się spotykać w sali, żeby przeprowadzić szkolenie, nie musimy się spotykać w salce, żeby zrobić szybką prezentację, nie musimy się umawiać na spotkanie, żeby dwie osoby musiały dojechać. Nawet pracując w biurze nie musimy siedzieć przed komputerem, tam przed naszym biurkiem, tylko możemy oszczędzić półtorej godziny jazdy do pracy plus półtorej godziny powrotu z pracy. Jednocześnie możemy oszczędzić zagrożenie, jakim jest w tej chwili spotykanie się z innymi ludźmi. To wszystko można zrobić przez Internet.</p><p dir=\"ltr\"><b>Nagle się otworzyły tak strasznie dużo furtek.</b></p><p dir=\"ltr\">I teraz to, co mnie zastanawia, to czy w momencie, kiedy jako społeczeństwo adaptujemy się do tej nowej rzeczywistości, to czy ludzie, którzy już się zaadaptują - czy szefowie tych firm stwierdzą - dobra pandemia minęła, wszystko. Wirus? Z wirusem sobie poradziliśmy. Zapraszamy z powrotem do biur, zapraszamy na swoje krzesła, dlatego że wracamy do stanu w jakim byliśmy przed tą pandemią. To raczej trudne, żeby sobie to wyobrazić, prawda?&nbsp;</p><p dir=\"ltr\">Więc, jak popatrzymy na historię to historycznie zawsze zwycięzcami były te jednostki, które w sytuacji stresowej najszybciej się adaptowały. I teraz skoro my sprzedajemy:</p><ul><li dir=\"ltr\">swój czas</li><li dir=\"ltr\">swoją wiedzę, </li><li dir=\"ltr\">swoje umiejętności, które dostarczamy tak naprawdę w trakcie spotkań z naszymi klientami, <br><br><b>to jesteśmy w idealnej sytuacji!</b>&nbsp;</li></ul><p dir=\"ltr\">Dlatego, że bardzo małym kosztem, małym sumptem jesteśmy w stanie przenieść naszą praktykę, nasze funkcjonowanie właśnie w świat online. Świat nie wirtualny, tylko świat jak najbardziej rzeczywisty - tylko bardziej nowoczesny. Jesteśmy w stanie zostać liderami dlatego, że zaadaptujemy się najszybciej do tej nowej sytuacji.</p><p dir=\"ltr\"><br></p></div><div class=\"thrv_wrapper thrive_leads_shortcode\"><div class=\"thrive-shortcode-config\" style=\"display: none !important;\">__CONFIG_leads_shortcode__{\"id\":\"7108\"}__CONFIG_leads_shortcode__</div></div><div class=\"thrv_wrapper thrv_text_element\"><p dir=\"ltr\">To co chciałbym Państwu, Wam zaoferować to <b>bezpłatna pomoc</b>, wsparcie w tym trudnym czasie, dlatego że musimy sobie pomagać, aby zacząć funkcjonować w tej nowej rzeczywistości.</p><p dir=\"ltr\">I chciałbym zaoferować wsparcie. Na stronie <b>Siadlak.com</b> będzie w ciągu najbliższych kilku dni, link - gdzieś widoczny na pewno - dotyczący korona wirusa COVID-19, gdzie zaoferuję kurs - absolutnie bezpłatny - jako formę wsparcia dla ludzi uprawiających wolne zawody.</p><p dir=\"ltr\">Jak to zrobić?</p><ul><li dir=\"ltr\">​Jak zorganizować swoją praktykę online?</li><li dir=\"ltr\">​​Jak zorganizować sobie tego rodzaju studio; aby można było z wami porozmawiać i uzyskać to co co dawaliśmy do tej pory w naszych salkach, w naszych biurach, &nbsp;w naszych miejscach spotkań?</li><li dir=\"ltr\">Jak zapewnić naszym Klientom, Kontrahentom, Partnerom bezpieczeństwo spotkania - zarówno psychiczne jak technologiczne?</li></ul><p dir=\"ltr\">Tak wygląda przyszłość. Nie jesteśmy w stanie tego uniknąć, a wirus który w tej chwili zdziesiątkował niektóre miejsca na świecie, po prostu przyspieszył ten proces.</p><p dir=\"ltr\">Musimy się zaadaptować albo po prostu wstrzymać oddech i bez tlenu liczyć na to, że dotrwamy. Ale to będzie dużo trudniejsze i myślę, że raczej płonne nadzieje, abyśmy wrócili tam, gdzie byliśmy. Więc raz jeszcze życzę zdrowia, tego aby zostawać w domu, trzymać się akcji zostańmy w domu. I zapraszam na stronę siadlak.com, aby rozpocząć proces adaptacyjny, bo … nie mamy innego wyjścia. </p><p dir=\"ltr\">Dzięki. Do zobaczenia. Cześć.</p><div dir=\"ltr\" class=\"tcb-plain-text\" style=\"\" data-css=\"tve-u-171a6bbd6be\"><span style=\"\" data-css=\"tve-u-171a6bbcbf5\">Transkrypcj​ę dostarczył: <b>Piotr Stanek </b>(dziękuję!)</span></div><p style=\"\"><span style=\"font-style: normal;\" data-css=\"tve-u-171a6bbcbf9\"><i></i></span></p></div><div class=\"thrv_wrapper thrive_leads_shortcode\"><div class=\"thrive-shortcode-config\" style=\"display: none !important;\">__CONFIG_leads_shortcode__{\"id\":\"7108\"}__CONFIG_leads_shortcode__</div></div>"
+tcb_editor_enabled:
+    - '1'
+tve_globals:
+    - 'a:2:{s:1:"e";s:1:"1";s:8:"font_cls";a:0:{}}'
+thrive_tcb_post_fonts:
+    - 'a:0:{}'
+thrive_icon_pack:
+    - '0'
+tve_has_masonry:
+    - '0'
+tve_has_typefocus:
+    - '0'
+tve_has_wistia_popover:
+    - '0'
+image: /wp-content/uploads/2020/03/vlcsnap-2020-03-21-21h57m56s343-e1584824402498.png
+categories:
+    - 'Budowanie wizerunku'
+    - 'Praca zdalna'
+tags:
+    - czas
+    - freelance
+    - komunikacja
+    - koncepcje
+    - rozwiązania
+    - szkolenia
+    - technologie
+format: video
+---
+
+​Kliknij **PLAY** powyżej
+
+​lub przeczytaj transkrypcję powyższego nagrania.
+
+### Transkrypcja
+
+Dzień dobry, nazywam się Ludwik Siadlak i Pani Prezes Stowarzyszenia Adwokackiego [Defensor Iuris](http://www.defensoriuris.pl/) poprosiła mnie, abym nagrał takie krótkie video, aby podzielić się swoją perspektywą tego w jakim miejscu się znajdujemy w tej chwili i dokąd zmierzamy, jako ludzie uprawiający wolne zawody.
+
+Dlatego, że będąc adwokatem, mecenasem, radcą, doradcą czy rzeczoznawcą uprawiamy to, co jest kwintesencją wolnego zawodu.
+
+Ja sam pozwalam sobie siebie wrzucić w ten worek, chociaż nie mam nic wspólnego z prawem, ale jestem konsultantem dla agencji wywiadowczych, służb wojskowych i rządów różnych krajów i robię to samo, co Wy, to samo co Państwo – tzn. sprzedaję swój czas, sprzedaję swoją wiedzę i umiejętności. Sprzedaję swoją inteligencję.
+
+Bo nawet psychologowie definiują inteligencję, jako miarę sprawności łączenia faktów
+
+i dochodzenia do nowych wniosków. A przecież te nowe wnioski i rezultaty to jest to, co my dostarczamy naszym klientom. Po to, żeby oni mogli osiągnąć swoje cele.
+
+Teraz, w momencie kiedy spotkała nas sytuacja wyjątkowa, to mamy tak naprawdę dwie ścieżki. Jesteśmy na rozstaju dróg, na rozdrożu i możemy albo zrobić to, co duża część świata zrobiła, tzn. wstrzymać oddech, poczekać, przetrwać, zamknąć się w domu i liczyć na to, że to się wkrótce skończy. Nie wiemy jak szybko, nie wiemy jak dużo czasu nam to zajmie, ale liczyć na to, że to się kiedyś skończy, bo to się skończy. Oczywiście warto myśleć pozytywnie – mieć na końcu jakieś światełko wiedząc o tym, że już w Chinach ta krzywa zachorowań wypłaszcza, więc będzie dobrze.
+
+Tylko to, co mnie zastanawia to czy te wszystkie firmy, korporacje, duże przedsiębiorstwa – nawet te niepracujące w najnowocześniejszych branżach jak nowe technologie, jak branże finansowe czy sztuczna inteligencja itd., nawet zwykłe, normalne organizacje, typowe organizacje również zaczęły rozumieć, że bardzo wiele rzeczy da się zrobić online.
+
+> Świat wirtualny jest rzeczywisty,tylko bardziej nowoczesny.
+
+To znaczy: nie musimy się spotykać w sali, żeby przeprowadzić szkolenie, nie musimy się spotykać w salce, żeby zrobić szybką prezentację, nie musimy się umawiać na spotkanie, żeby dwie osoby musiały dojechać. Nawet pracując w biurze nie musimy siedzieć przed komputerem, tam przed naszym biurkiem, tylko możemy oszczędzić półtorej godziny jazdy do pracy plus półtorej godziny powrotu z pracy. Jednocześnie możemy oszczędzić zagrożenie, jakim jest w tej chwili spotykanie się z innymi ludźmi. To wszystko można zrobić przez Internet.
+
+**Nagle się otworzyły tak strasznie dużo furtek.**
+
+I teraz to, co mnie zastanawia, to czy w momencie, kiedy jako społeczeństwo adaptujemy się do tej nowej rzeczywistości, to czy ludzie, którzy już się zaadaptują – czy szefowie tych firm stwierdzą – dobra pandemia minęła, wszystko. Wirus? Z wirusem sobie poradziliśmy. Zapraszamy z powrotem do biur, zapraszamy na swoje krzesła, dlatego że wracamy do stanu w jakim byliśmy przed tą pandemią. To raczej trudne, żeby sobie to wyobrazić, prawda?
+
+Więc, jak popatrzymy na historię to historycznie zawsze zwycięzcami były te jednostki, które w sytuacji stresowej najszybciej się adaptowały. I teraz skoro my sprzedajemy:
+
+- swój czas
+- swoją wiedzę,
+- swoje umiejętności, które dostarczamy tak naprawdę w trakcie spotkań z naszymi klientami, **to jesteśmy w idealnej sytuacji!**
+
+Dlatego, że bardzo małym kosztem, małym sumptem jesteśmy w stanie przenieść naszą praktykę, nasze funkcjonowanie właśnie w świat online. Świat nie wirtualny, tylko świat jak najbardziej rzeczywisty – tylko bardziej nowoczesny. Jesteśmy w stanie zostać liderami dlatego, że zaadaptujemy się najszybciej do tej nowej sytuacji.
+
+To co chciałbym Państwu, Wam zaoferować to **bezpłatna pomoc**, wsparcie w tym trudnym czasie, dlatego że musimy sobie pomagać, aby zacząć funkcjonować w tej nowej rzeczywistości.
+
+I chciałbym zaoferować wsparcie. Na stronie **Siadlak.com** będzie w ciągu najbliższych kilku dni, link – gdzieś widoczny na pewno – dotyczący korona wirusa COVID-19, gdzie zaoferuję kurs – absolutnie bezpłatny – jako formę wsparcia dla ludzi uprawiających wolne zawody.
+
+Jak to zrobić?
+
+- ​Jak zorganizować swoją praktykę online?
+- ​​Jak zorganizować sobie tego rodzaju studio; aby można było z wami porozmawiać i uzyskać to co co dawaliśmy do tej pory w naszych salkach, w naszych biurach, w naszych miejscach spotkań?
+- Jak zapewnić naszym Klientom, Kontrahentom, Partnerom bezpieczeństwo spotkania – zarówno psychiczne jak technologiczne?
+
+Tak wygląda przyszłość. Nie jesteśmy w stanie tego uniknąć, a wirus który w tej chwili zdziesiątkował niektóre miejsca na świecie, po prostu przyspieszył ten proces.
+
+Musimy się zaadaptować albo po prostu wstrzymać oddech i bez tlenu liczyć na to, że dotrwamy. Ale to będzie dużo trudniejsze i myślę, że raczej płonne nadzieje, abyśmy wrócili tam, gdzie byliśmy. Więc raz jeszcze życzę zdrowia, tego aby zostawać w domu, trzymać się akcji zostańmy w domu. I zapraszam na stronę siadlak.com, aby rozpocząć proces adaptacyjny, bo … nie mamy innego wyjścia.
+
+Dzięki. Do zobaczenia. Cześć.
+
+<span style="">Transkrypcj​ę dostarczył: **Piotr Stanek** (dziękuję!)</span>
+
+<span style="font-style: normal;"></span>
