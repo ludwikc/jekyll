@@ -5,44 +5,7 @@ date: '2015-03-09T13:04:28+02:00'
 author: 'Ludwik C. Siadlak'
 layout: page
 guid: 'http://siadlak.angrybytes.pl/?page_id=4080'
-slide_template:
-    - default
-header_override:
-    - 'off'
-subheader:
-    - 'on'
-header_grid:
-    - 'on'
-header_cart:
-    - 'on'
-display_pagetitle_area:
-    - 'on'
-pagetitle_style:
-    - style1
-pagetitle_breadcrumbs:
-    - 'on'
-portfolio_columns:
-    - three
-portfolio_pagecount:
-    - '-1'
-portfolio_margin:
-    - 'off'
-grayscale:
-    - 'off'
-titles:
-    - 'off'
-page_scroll:
-    - 'off'
-views:
-    - '1893'
-dsq_thread_id:
-    - '5463853710'
-vc_teaser:
-    - 'a:2:{s:4:"data";s:67:"[{"name":"{{ name }}"},{"name":"{{ name }}"},{"name":"{{ name }}"}]";s:7:"bgcolor";s:0:"";}'
-csco_singular_layout_page:
-    - default
-csco_featured_image_type:
-    - default
+
 image: /wp-content/uploads/2015/03/mervyn-chan-262968-e1507231647829-1.jpg
 ---
 
@@ -54,7 +17,6 @@ Rolą *lifehackera* jest **budzenie** potencjału, **inspirowanie** do życia zg
 
 ---
 
-![Advanced Training Solutions - Ludwik C. Siadlak Cartoon](http://personaldevelopment.pl/wp-content/uploads/ludwik/Male_Cartoon_Character_20.png)
 
 Lifehacking to partnerska relacja, w której staję się Twoim osobistym trenerem. Wspieram Cię w realizacji Twoich własnych, osobistych i czasem intymnych celów – niezależnie, czy dotyczą życia osobistego, zdrowia, związku, kariery, czy nawet marzeń.
 

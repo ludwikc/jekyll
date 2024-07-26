@@ -1,6 +1,6 @@
 ---
 id: 4065
-title: 'Business Coaching'
+title: 'Executive Coaching'
 date: '2015-03-09T13:04:53+02:00'
 author: 'Ludwik C. Siadlak'
 layout: page
