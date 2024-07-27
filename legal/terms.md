@@ -1,3 +1,14 @@
+---
+title: Terms and Conditions
+date: '2024-07-27T02:47:35+02:00'
+author: 'Ludwik C. Siadlak'
+layout: page
+
+---
+
+
+
+
 Language versions: 
 - [English](#en)
 - [Polish](#pl)
