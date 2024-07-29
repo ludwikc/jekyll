@@ -21,8 +21,8 @@ Language versions:
 # Terms and Conditions of the Online Store
 
 ## § 1. Definitions
-1. **Contact Form** - a form available on the website [siadlak.com](https://siadlak.com) allowing the User to send a message to the Service Provider.
-2. **Order Form** – a form available on the website [siadlak.com](https://siadlak.com) allowing the User to place an Order.
+1. **Contact Form** - a form available on the website [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) allowing the User to send a message to the Service Provider.
+2. **Order Form** – a form available on the website [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) allowing the User to place an Order.
 3. **Client** – an individual, a legal person, or an organizational unit without legal personality, using the Online Store's services, intending to enter into or having entered into a Sales Agreement with the Service Provider.
 4. **Consumer** – an individual who performs a legal transaction not directly related to their business or professional activity.
 5. **Product** – a physical product, goods with digital elements, digital content, or digital service available in the Online Store and being the subject of a Sales Agreement between the Client and the Service Provider.
@@ -163,8 +163,8 @@ Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Germany, VAT DE
 # Regulamin Sklepu Internetowego
 
 ## § 1. Definicje
-1. **Formularz kontaktowy** - formularz dostępny na stronie internetowej [siadlak.com](https://siadlak.com) umożliwiający wysłanie wiadomości do Usługodawcy.
-2. **Formularz zamówienia** – formularz dostępny na stronie internetowej [siadlak.com](https://siadlak.com) umożliwiający złożenie Zamówienia.
+1. **Formularz kontaktowy** - formularz dostępny na stronie internetowej [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) umożliwiający wysłanie wiadomości do Usługodawcy.
+2. **Formularz zamówienia** – formularz dostępny na stronie internetowej [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) umożliwiający złożenie Zamówienia.
 3. **Klient** – osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, korzystająca z usług Sklepu Internetowego, zamierzająca zawrzeć lub zawarła Umowę Sprzedaży z Usługodawcą.
 4. **Konsument** – osoba fizyczna dokonująca czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową.
 5. **Produkt** – dostępny w Sklepie Internetowym produkt fizyczny, towar z elementami cyfrowymi, treść cyfrowa lub usługa cyfrowa, będąca przedmiotem Umowy Sprzedaży.
@@ -312,7 +312,7 @@ Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Niemcy, NIP DE3
 5. **Produkt** – ein physisches Produkt, Waren mit digitalen Elementen, digitale Inhalte oder digitale Dienstleistungen, die im Online-Shop verfügbar sind und Gegenstand eines Kaufvertrags zwischen dem Kunden und dem Dienstanbieter sind.
 6. **AGB** - diese Allgemeinen Geschäftsbedingungen des Online-Shops.
 7. **Unternehmer mit Verbraucherrechten** - eine natürliche Person, die einen Dienstleistungsvertrag mit dem Unternehmen abschließt, der direkt mit ihrer geschäftlichen Tätigkeit verbunden ist, vorausgesetzt, der Vertrag ist nicht beruflich für sie.
-8. **Online-Shop** - der Online-Shop des Dienstanbieters, der unter der Adresse [siadlak.com](https://siadlak.com) betrieben wird.
+8. **Online-Shop** - der Online-Shop des Dienstanbieters, der unter der Adresse [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) betrieben wird.
 9. **Dienstanbieter** – Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Deutschland, USt-ID: DE321931949.
 10. **Kaufvertrag** – ein Vertrag, der zwischen dem Kunden und dem Dienstanbieter über den Online-Shop abgeschlossen wird.
 11. **Elektronischer Dienst** – ein elektronischer Dienst, der vom Dienstanbieter bereitgestellt wird.

@@ -1,3 +1,13 @@
+---
+title: Privacy Policy
+date: '2024-07-27T02:47:35+02:00'
+author: 'Ludwik C. Siadlak'
+layout: page
+
+---
+
+
+
 Language versions: 
 - [English](#en)
 - [Polish](#pl)
@@ -10,7 +20,7 @@ Language versions:
 # Privacy Policy
 
 ## Introduction
-This Privacy Policy explains how Advanced Training Solutions ("we", "our", "us") processes your personal data when you visit our website [siadlak.com](https://siadlak.com) ("Website") and use our services. We are committed to protecting your privacy and ensuring the security of your personal information in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.
+This Privacy Policy explains how Advanced Training Solutions ("we", "our", "us") processes your personal data when you visit our website [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) ("Website") and use our services. We are committed to protecting your privacy and ensuring the security of your personal information in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.
 
 ## Definitions
 1. **Administrator**: Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Germany, VAT ID: DE321931949.
@@ -71,7 +81,7 @@ Email: [connect@siadlak.email](mailto:connect@siadlak.email)
 # Polityka Prywatności
 
 ## Wprowadzenie
-Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób Advanced Training Solutions ("my", "nasz", "nas") przetwarza Twoje dane osobowe podczas odwiedzania naszej strony internetowej [siadlak.com](https://siadlak.com) ("Strona") oraz korzystania z naszych usług. Zobowiązujemy się do ochrony Twojej prywatności oraz zapewnienia bezpieczeństwa Twoich danych osobowych zgodnie z Ogólnym Rozporządzeniem o Ochronie Danych (RODO) i innymi obowiązującymi przepisami o ochronie danych.
+Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób Advanced Training Solutions ("my", "nasz", "nas") przetwarza Twoje dane osobowe podczas odwiedzania naszej strony internetowej [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) ("Strona") oraz korzystania z naszych usług. Zobowiązujemy się do ochrony Twojej prywatności oraz zapewnienia bezpieczeństwa Twoich danych osobowych zgodnie z Ogólnym Rozporządzeniem o Ochronie Danych (RODO) i innymi obowiązującymi przepisami o ochronie danych.
 
 ## Definicje
 1. **Administrator**: Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Niemcy, NIP: DE321931949.
@@ -132,7 +142,7 @@ Email: [connect@siadlak.email](mailto:connect@siadlak.email)
 # Datenschutzrichtlinie
 
 ## Einleitung
-Diese Datenschutzrichtlinie erklärt, wie Advanced Training Solutions ("wir", "uns", "unser") Ihre personenbezogenen Daten verarbeitet, wenn Sie unsere Website [siadlak.com](https://siadlak.com) ("Website") besuchen und unsere Dienste nutzen. Wir verpflichten uns, Ihre Privatsphäre zu schützen und die Sicherheit Ihrer personenbezogenen Daten gemäß der Datenschutz-Grundverordnung (DSGVO) und anderen anwendbaren Datenschutzgesetzen zu gewährleisten.
+Diese Datenschutzrichtlinie erklärt, wie Advanced Training Solutions ("wir", "uns", "unser") Ihre personenbezogenen Daten verarbeitet, wenn Sie unsere Website [siadlak.com](https://siadlak.com) | [hackerzy.pl](https://hackerzy.pl) | [ludwikc.net](https://ludwikc.net) ("Website") besuchen und unsere Dienste nutzen. Wir verpflichten uns, Ihre Privatsphäre zu schützen und die Sicherheit Ihrer personenbezogenen Daten gemäß der Datenschutz-Grundverordnung (DSGVO) und anderen anwendbaren Datenschutzgesetzen zu gewährleisten.
 
 ## Definitionen
 1. **Verantwortlicher**: Advanced Training Solutions, Viktoriastraße 8, 65189 Wiesbaden, Deutschland, USt-ID: DE321931949.
